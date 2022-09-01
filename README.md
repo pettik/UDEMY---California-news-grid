@@ -8,9 +8,9 @@ Site has 3 HTML files (<b>Homepage</b>, <b>About</b> and <b>Article</b>).
 <img src="homepage.png" alt="Homepage preview">
 
 
-## HOMEPAGE site looks like this 🖥️⬇️
+## ARTICLE PAGE site looks like this 🖥️⬇️
 <img src="article.png" alt="Article preview">
 
 
-## HOMEPAGE site looks like this 🖥️⬇️
+## ABOUT PAGE site looks like this 🖥️⬇️
 <img src="about.png" alt="About preview">
